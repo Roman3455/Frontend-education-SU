@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  color: #393c41;
+}
+
+p {
+  background-color: #34495e;
+  color: #ecf0f1;
+  padding: 10px;
+  margin: 10px;
+}
+
+span {
+  color: #319316;
+}
